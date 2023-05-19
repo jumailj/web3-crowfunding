@@ -31,7 +31,7 @@ export const navlinks = [
   {
     name: 'logout',
     imgUrl: logout,
-    link: '/',
-    disabled: true,
+    link: '/logout-page',
+    // currently enabled add functionaly to logout
   },
 ];
